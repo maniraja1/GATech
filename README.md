@@ -1,1 +1,2 @@
 # GATech
+**/.DS_Store
